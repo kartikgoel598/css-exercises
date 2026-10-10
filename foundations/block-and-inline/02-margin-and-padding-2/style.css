@@ -7,8 +7,24 @@ body {
   width: 400px;
   background: white;
   margin: 16px auto;
+  padding: 8px;
 }
-
+.title{
+  padding: 8px;
+}
+.content{
+  padding:8px;
+  margin-bottom: 8px;
+}
+.button-container{
+  text-align: center;
+  padding: 8px;
+}
+.button{
+  display:block;
+  margin: 0 auto;
+  padding: 8px 24px;
+}
 .title,
 .content,
 .button-container {
